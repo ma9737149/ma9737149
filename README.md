@@ -55,8 +55,8 @@ C --> D[Problem Solving - ∞ Continuous]
 
 <div align="center">
   
-[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide=issues)](https://github.com/ma9737149)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide=html,css)](https://github.com/ma9737149)
+[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ma9737149&show_icons=true&theme=radical&hide=issues)](https://github.com/ma9737149)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ma9737149&layout=compact&theme=radical&hide=html,css)](https://github.com/ma9737149)
 
 </div>
 
@@ -73,7 +73,7 @@ C --> D[Problem Solving - ∞ Continuous]
 
 <div align="center">
   
-[![Visitors](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square)](https://github.com/ma9737149)
+[![Visitors](https://komarev.com/ghpvc/?username=ma9737149&color=blue&style=flat-square)](https://github.com/ma9737149)
   
 </div>
 
