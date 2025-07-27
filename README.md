@@ -1,4 +1,4 @@
-# **Ahmed Mohamed**  
+# **Ahmed Ashraf**  
 ### *High School Developer in the Making*  
 
 ```javascript
@@ -55,8 +55,8 @@ C --> D[Problem Solving - ∞ Continuous]
 
 <div align="center">
   
-[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide=issues)](https://github.com/yourusername)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide=html,css)](https://github.com/yourusername)
+[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide=issues)](https://github.com/ma9737149)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide=html,css)](https://github.com/ma9737149)
 
 </div>
 
@@ -65,15 +65,15 @@ C --> D[Problem Solving - ∞ Continuous]
 <div align="center">
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1137157616804573376)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/yourprofile)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ma9737149)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/ma9737149)
+
 
 </div>
 
 <div align="center">
   
-[![Visitors](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square)](https://github.com/yourusername)
+[![Visitors](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square)](https://github.com/ma9737149)
   
 </div>
 
