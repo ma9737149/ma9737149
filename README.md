@@ -1,36 +1,89 @@
-# Ahmed - High School Student & Web Developer
+# **Ahmed Mohamed**  
+### *High School Developer in the Making*  
 
-Hello! I'm Ahmed, a 9th-grade student transitioning to high school. My passion for programming started in 7th grade, and I’ve been learning and improving my skills ever since.
+```javascript
+// Animated ASCII Art
+const devArt = `
+   _____                 _ 
+  / ____|               | |
+ | |  __  ___   ___   __| |
+ | | |_ |/ _ \\ / _ \\ / _\` |
+ | |__| | (_) | (_) | (_| |
+  \\_____|\\___/ \\___/ \\__,_|
+  
+  Code flows in my veins since 7th grade!
+`;
+console.log(devArt);
+```
 
-## 🛠️ Skills & Technologies
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BCF7&background=0D111700&center=true&vCenter=true&width=800&lines=Full-Stack+Learner;Python+Enthusiast;Problem+Solver;Future+Tech+Leader)](https://git.io/typing-svg)
 
-### Programming Languages & Technologies I’m Learning:
+</div>
 
-- **Frontend Development**:
-  - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-  - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-  - ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-  - ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+## **🔥 Tech Stack**  
 
-- **Backend Development**:
-  - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-    - **Frameworks/Libraries**:
-      - ![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=flat&logo=discord&logoColor=white)
-      - ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-      - ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+### **Frontend Development**  
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+</p>
 
-### Currently Studying:
-- **Data Structures** (to improve my problem-solving skills)
+### **Backend Development**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.py">
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSockets">
+</p>
 
-## 📫 Contact Me
+## **📚 Current Learning Journey**  
 
-I love collaborating and connecting with other developers! You can reach me on:
-- **Discord**: [Add me on Discord](https://discord.com/users/1137157616804573376) (ID: `1137157616804573376`)
+```mermaid
+graph LR
+A[Data Structures - ✔️ Done] --> B[Algorithms - ✔️ Done]
+B --> C[WebSockets - In Progress]
+C --> D[Problem Solving - ∞ Continuous]
+```
 
-## 🚀 Future Goals
+## **📊 GitHub Stats**  
 
-- Building more complex projects with **Django & Flask**.
-- Continuing to study **Data Structures & Algorithms** to sharpen my programming logic.
+<div align="center">
+  
+[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide=issues)](https://github.com/yourusername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide=html,css)](https://github.com/yourusername)
 
-I’m always excited to learn new things, so feel free to reach out if you want to collaborate or discuss coding! 😊
+</div>
+
+## **🌐 Connect With Me**  
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1137157616804573376)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+
+</div>
+
+<div align="center">
+  
+[![Visitors](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square)](https://github.com/yourusername)
+  
+</div>
+
+<details>
+<summary>✨ Click for Coding Philosophy!</summary>
+<br>
+  
+```python
+def coding_philosophy():
+    return "Every line of code is a step towards mastery!"
+```
+  
+</details>
